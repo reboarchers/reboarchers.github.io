@@ -4,3 +4,8 @@
   url: /range/
   excerpt: Information about our 42-target range
   image: range-small.png
+
+- title: Membership
+  url: /membership/
+  excerpt: Membership information
+  image: clubhouse.jpg
