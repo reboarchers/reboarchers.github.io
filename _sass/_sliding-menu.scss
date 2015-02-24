@@ -43,7 +43,7 @@
 	}
 	@include size(100% 100%);
 	@include media($medium) {
-		@include size(87% 100%);
+		@include size(45% 100%);
 	}
 	@include transform(translateX(100%));
 	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
