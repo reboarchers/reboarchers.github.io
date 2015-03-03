@@ -9,3 +9,8 @@
   url: /membership/
   excerpt: Membership information
   image: clubhouse.jpg
+
+- title: Classes
+  url: /classes/
+  excerpt: Introductory archery classes through EBRPD
+  image: clubhouse.jpg
