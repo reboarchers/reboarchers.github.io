@@ -32,3 +32,9 @@ June 12 | June 13    | June 14
 
 ### Joining the Club
 
+To begin the process of joining the club, please submit [a membership application](/files/joinrebo.pdf) at the clubhouse.
+Applicants must attend one work party, one club shoot, and one club meeting where they will be sworn in.
+
+Annual membership dues are $110 for an individual or $125 for a family including two adults and children under 18.
+There is a $50 initiation fee for new memberships.
+Annual memberships begin on March 1st and dues are prorated for new members.
