@@ -246,6 +246,7 @@
 		padding: 5em;
 	}
 	h1 {
+        text-shadow: 0 0 2px #333;
 		@include font-size(48);
 		@include media($medium) {
 			@include font-size(60);
