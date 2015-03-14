@@ -240,7 +240,7 @@
 	text-align: center;
 	color: rgb(236, 240, 241);
 	@include media($large) {
-		background-size: cover;
+		background-size: 100%;
 	}
 }
 .page-lead-content {
