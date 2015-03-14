@@ -1,5 +1,5 @@
 ---
-title: Home
+title: "&nbsp;"
 layout: sliding-image
 permalink: /
 image:
