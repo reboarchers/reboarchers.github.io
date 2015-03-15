@@ -75,3 +75,12 @@ Find some of our more recent editions below.
 [v84]: </files/tt/Target Talk - Vol 84.pdf>
 [v85]: </files/tt/Target Talk - Vol 85.pdf>
 [v86]: </files/tt/Target Talk - Vol 86.pdf>
+
+
+### Officers
+
+Doug Scott      | President
+Anthony Kesich  | Vice President
+Amber Adams     | Secretary
+Michelle Robels | Treasurer
+Jonathan Hodell | Classifications
