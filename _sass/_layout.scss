@@ -168,7 +168,7 @@
 			a { text-decoration: none; }
 			p > a,
 			li > a {
-				border-bottom: 1px dotted lighten($link-color, 50);
+				border-bottom: 1px dotted $link-color;
 				&:hover {
 					border-bottom-style: solid;
 				}
