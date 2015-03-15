@@ -3,7 +3,7 @@ title: Classes
 layout: sliding-image
 permalink: /classes/
 image:
-  feature: practice-area.png
+  feature: class.png
 ---
 
 We offer classes through the [East Bay Regional Parks Department](https://apm.activecommunities.com/ebparks/Activity_Search/archery-introduction/7287).
