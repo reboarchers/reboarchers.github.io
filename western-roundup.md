@@ -14,4 +14,5 @@ The circus and law enforcement agencies needed experienced marksmen and stalkers
 Among those asked to help were the Redwood Bowmen of Oakland.
 After all the valuable animals had been returned, and it was time for the club’s annual June shoot they decided to remember their contribution to the safety of the community by naming their shoot the “Western Roundup.”
 
-The shoot consists of 28 3D targets, ranging from 10 yards to 100.
+The shoot consists of 28 3D targets, ranging from 10 to 100 yards.
+There are 3 arrows per target with 11-10-8 scoring.
