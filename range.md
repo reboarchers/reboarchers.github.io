@@ -14,7 +14,7 @@ Take a hike through the redwoods on the Hill trail where you'll shoot through tr
 
 Each of our courses are [marked for multiple yardages](/files/rebomarkers.pdf) so we can rotate Hunter, Field, and Animal targets between our three courses.
 
-### Range Records
+### Club Range Records
 
 Style   |   Men   |  Women
 --------|---------|--------
