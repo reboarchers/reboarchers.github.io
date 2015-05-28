@@ -25,11 +25,10 @@ Work starts at 9:00 and ends with a home-cooked meal.
 
 Meeting | Work party | Club Shoot
 --------|------------|-----------
-March 13| March 7    | March 8
-April 10| April 11   | April 12
-May 8   | May 9      | May 10
 June 12 | June 13    | June 14
-
+July 10 | July 11    | July 12
+August 14 | August 8 | August 9
+October 11 | October 12 | October 13
 
 ### Joining the Club
 
