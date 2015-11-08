@@ -29,6 +29,7 @@ June 12 | June 13    | June 14
 July 10 | July 11    | July 12
 August 14 | August 8 | August 9
 October 11 | October 12 | October 13
+November 13 | November 14 | November 7
 
 ### Joining the Club
 
