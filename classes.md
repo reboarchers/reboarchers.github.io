@@ -6,7 +6,7 @@ image:
   feature: class.png
 ---
 
-We offer classes through the [East Bay Regional Parks Department](https://apm.activecommunities.com/ebparks/Activity_Search/archery-introduction/7287).
+We offer classes through the [East Bay Regional Parks Department](https://apm.activecommunities.com/ebparks/Activity_Search?ActivityCategoryID=13&isSearch=true&applyFiltersDefaultValue=true).
 Classes are two hours long.
 We cover safety and technique in our cozy club house.
 Then, we move out to the range where you can hone your new skills under the watch of our trained instructors.

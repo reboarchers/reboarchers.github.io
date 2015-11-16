@@ -15,7 +15,12 @@
   excerpt: Introductory archery classes through EBRPD
   image: clubhouse.jpg
 
-- title: Western Roundup
-  url: /western-roundup/
-  excerpt: Redwood Bowmen's annual 3D target shoot
-  image: clubhouse.jpg
+- title: Turkey Shoot
+  url: /turkey-shoot/
+  excerpt: Our annual November fun shoot
+  image: turkey-arrow.jpg
+
+#- title: Western Roundup
+#url: /western-roundup/
+#excerpt: Redwood Bowmen's annual 3D target shoot
+#image: clubhouse.jpg
