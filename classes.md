@@ -27,6 +27,6 @@ Finish the class off with some fun with balloons.
 | July 16      | 1:30 p.m. |
 | August 20    | 10:00 a.m.|
 | August 20    | 1:30 p.m. |
-| September 17 | 1:30 p.m. |
+| September 18 | 1:30 p.m. |
 | October 15   | 1:30 p.m. |
 | November 5   | 1:30 p.m. |
