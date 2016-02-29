@@ -28,8 +28,6 @@ Youth (up to and including 16 years) must have an adult guardian present during 
 |--------------|-----------|
 | Class Date   | Time      |
 |--------------|-----------|
-| January 16   | 1:30 p.m. |
-| February 20  | 1:30 p.m. |
 | March 19     | 1:30 p.m. |
 | April 16     | 1:30 p.m. |
 | May 21       | 1:30 p.m. |
