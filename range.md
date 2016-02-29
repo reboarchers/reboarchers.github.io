@@ -14,6 +14,9 @@ Take a hike through the redwoods on the Hill trail where you'll shoot through tr
 
 Each of our courses are [marked for multiple yardages](/files/rebomarkers.pdf) so we can rotate Hunter, Field, and Animal targets between our three courses.
 
+The range is adjacent to the Chabot Space and Science Center, so for a good idea of the weather before you come, see the
+[observatory weather station](http://www.chabotspace.org/weather-station.htm).
+
 ### Club Range Records
 
 Style   |   Men   |  Women
