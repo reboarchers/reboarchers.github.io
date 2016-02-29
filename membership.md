@@ -23,13 +23,16 @@ Keeping our course looking great and working well requires some love and care.
 Members come together on the Saturday before the club shoot to do keep the range in tip-top shape.
 Work starts at 9:00 and ends with a home-cooked meal.
 
-Meeting | Work party | Club Shoot
---------|------------|-----------
-June 12 | June 13    | June 14
-July 10 | July 11    | July 12
-August 14 | August 8 | August 9
-October 11 | October 12 | October 13
-November 13 | November 14 | November 7
+The next few monthly events are shown in this table, see the calendar further below
+for more details, including events that may impact range availability.
+
+Meeting   | Work party   | Club Shoot
+----------|--------------|-----------
+March 11  | March 12     | March 13
+April 8   | April 9      | April 10
+May 13    | May 14       | May 8  **<-- Note dates!**
+June 10   | June 11      | June 12
+July 8    | July 9       | July 10
 
 ### Joining the Club
 
@@ -81,8 +84,13 @@ Find some of our more recent editions below.
 
 ### Officers
 
-Doug Scott      | President
+Neal Ruben      | President
 Anthony Kesich  | Vice President
 Amber Adams     | Secretary
 Michelle Robels | Treasurer
 Jonathan Hodell | Classifications
+
+
+### Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=g8hohsehmtora80p6o8jjq7i0c%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
