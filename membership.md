@@ -87,7 +87,7 @@ Find some of our more recent editions below.
 Neal Ruben      | President
 Anthony Kesich  | Vice President
 Amber Adams     | Secretary
-Michelle Robels | Treasurer
+Michelle Robles | Treasurer
 Jonathan Hodell | Classifications
 
 
