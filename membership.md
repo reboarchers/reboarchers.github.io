@@ -48,15 +48,15 @@ Annual memberships begin on March 1st and dues are prorated for new members.
 Target Talk is the club's periodic newsletter where we keep members up-to-date with club dealings and local events.
 Find some of our more recent editions below.
 
-|         2012            |         2013            |         2014             |        2015            |
-|-------------------------|-------------------------|--------------------------|------------------------|
-|[Vol.63, June][v63]      |[Vol. 70, February][v70] |[Vol. 80, April][v80]     |[Vol.86, February][v86] |
-|[Vol.64, July][v64]      |[Vol. 71, March][v71]    |[Vol. 81, June][v81]      |[Vol.87, March][v87] |
-|[Vol.65, August][v65]    |[Vol. 72, April][v72]    |[Vol. 82, August][v82]    |[Vol.88, June][v88] |
-|[Vol.66, September][v66] |[Vol. 73, May][v73]      |[Vol. 83, September][v83] | |
-|[Vol.67, October][v67]   |[Vol. 75, July][v75]     |[Vol. 84, October][v84]   | |
-|[Vol.68, November][v68]  |[Vol. 76, August][v76]   |[Vol. 85, November][v85]  | |
-|                         |[Vol. 79, November][v79] |                          | |
+|         2012            |         2013            |         2014             |        2015            | 2016 |
+|-------------------------|-------------------------|--------------------------|------------------------|------|
+|[Vol.63, June][v63]      |[Vol. 70, February][v70] |[Vol. 80, April][v80]     |[Vol.86, February][v86] |[Vol.94, March][v94]|
+|[Vol.64, July][v64]      |[Vol. 71, March][v71]    |[Vol. 81, June][v81]      |[Vol.87, March][v87]    | |
+|[Vol.65, August][v65]    |[Vol. 72, April][v72]    |[Vol. 82, August][v82]    |[Vol.88, June][v88]     | |
+|[Vol.66, September][v66] |[Vol. 73, May][v73]      |[Vol. 83, September][v83] |                        | |
+|[Vol.67, October][v67]   |[Vol. 75, July][v75]     |[Vol. 84, October][v84]   |                        | |
+|[Vol.68, November][v68]  |[Vol. 76, August][v76]   |[Vol. 85, November][v85]  |                        | |
+|                         |[Vol. 79, November][v79] |                          |                        | |
 
 [v63]: </files/tt/Target Talk - Vol 63.pdf>
 [v64]: </files/tt/Target Talk - Vol 64.pdf>
@@ -80,6 +80,7 @@ Find some of our more recent editions below.
 [v86]: </files/tt/Target Talk - Vol 86.pdf>
 [v87]: </files/tt/Target Talk - Vol 87.pdf>
 [v88]: </files/tt/Target Talk - Vol 88.pdf>
+[v94]: </files/tt/Target Talk - Vol 94.pdf>
 
 
 ### Officers
