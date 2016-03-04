@@ -23,7 +23,7 @@ Keeping our course looking great and working well requires some love and care.
 Members come together on the Saturday before the club shoot to do keep the range in tip-top shape.
 Work starts at 9:00 and ends with a home-cooked meal.
 
-The next few monthly events are shown in this table, see the calendar further below
+The next few monthly events are shown in this table, see the [calendar](/calendar/) further below
 for more details, including events that may impact range availability.
 
 Meeting   | Work party   | Club Shoot
@@ -89,8 +89,3 @@ Anthony Kesich  | Vice President
 Amber Adams     | Secretary
 Michelle Robles | Treasurer
 Jonathan Hodell | Classifications
-
-
-### Calendar
-
-<iframe src="https://calendar.google.com/calendar/embed?src=g8hohsehmtora80p6o8jjq7i0c%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
