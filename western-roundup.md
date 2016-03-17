@@ -6,8 +6,9 @@ image:
   feature: bear-target.png
 ---
 
-This year's Western Roundup will be held on Sunday, June 28.
-Get the flyer [here](/files/Western RoundUp 2015.pdf).
+This year's Western Roundup will be held on Sunday, June 26, 2016.
+The 2016 flyer is not available yet,
+but the 2015 flyer is available [here](/files/Western RoundUp 2015.pdf).
 
 One year the circus train derailed in Oakland.
 Many potentially scared and therefore dangerous animals were loose in neighborhoods and the Oakland Hills area.
