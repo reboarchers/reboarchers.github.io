@@ -50,7 +50,7 @@ Find some of our more recent editions below.
 |         2012            |         2013            |         2014             |        2015            | 2016 |
 |-------------------------|-------------------------|--------------------------|------------------------|------|
 |[Vol.63, June][v63]      |[Vol. 70, February][v70] |[Vol. 80, April][v80]     |[Vol.86, February][v86] |[Vol.94, March][v94]|
-|[Vol.64, July][v64]      |[Vol. 71, March][v71]    |[Vol. 81, June][v81]      |[Vol.87, March][v87]    | |
+|[Vol.64, July][v64]      |[Vol. 71, March][v71]    |[Vol. 81, June][v81]      |[Vol.87, March][v87]    |[Vol.95, April][v95]|
 |[Vol.65, August][v65]    |[Vol. 72, April][v72]    |[Vol. 82, August][v82]    |[Vol.88, June][v88]     | |
 |[Vol.66, September][v66] |[Vol. 73, May][v73]      |[Vol. 83, September][v83] |                        | |
 |[Vol.67, October][v67]   |[Vol. 75, July][v75]     |[Vol. 84, October][v84]   |                        | |
@@ -80,6 +80,7 @@ Find some of our more recent editions below.
 [v87]: </files/tt/Target Talk - Vol 87.pdf>
 [v88]: </files/tt/Target Talk - Vol 88.pdf>
 [v94]: </files/tt/Target Talk - Vol 94.pdf>
+[v95]: </files/tt/Target Talk - Vol 95.pdf>
 
 
 ### Officers
