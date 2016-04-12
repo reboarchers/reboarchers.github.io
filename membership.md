@@ -28,7 +28,6 @@ for more details, including events that may impact range availability.
 
 Meeting   | Work party   | Club Shoot
 ----------|--------------|-----------
-April 8   | April 9      | April 10
 May 13    | May 14       | May 8  **<-- Note dates!**
 June 10   | June 11      | June 12
 July 8    | July 9       | July 10
